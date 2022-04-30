@@ -1,0 +1,12 @@
+{
+  "name": "lead-replacment-tracker",
+  "version": "0.1",
+  "description": "A scraper, backend and frontend for data on lead service pipe replacement as part of the American Rescue Plan passed in 2021",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
